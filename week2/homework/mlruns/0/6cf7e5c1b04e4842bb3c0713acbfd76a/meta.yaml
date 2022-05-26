@@ -1,0 +1,15 @@
+artifact_uri: file:///home/wld/notebooks/mlops-zoomcamp/week2/homework/mlruns/0/6cf7e5c1b04e4842bb3c0713acbfd76a/artifacts
+end_time: 1653575024802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6cf7e5c1b04e4842bb3c0713acbfd76a
+run_uuid: 6cf7e5c1b04e4842bb3c0713acbfd76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653574963273
+status: 3
+tags: []
+user_id: wld
