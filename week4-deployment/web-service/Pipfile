@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 scikit-learn = "==1.0.2"
 flash = "*"
+flask = "*"
+requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 
