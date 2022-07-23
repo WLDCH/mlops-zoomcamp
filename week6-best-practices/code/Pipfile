@@ -11,6 +11,9 @@ deepdiff = "*"
 
 [dev-packages]
 pytest = "*"
+pylint = "*"
+black = "*"
+isort = "*"
 
 [requires]
 python_version = "3.9"
