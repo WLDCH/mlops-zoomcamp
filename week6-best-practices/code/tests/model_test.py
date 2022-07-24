@@ -1,5 +1,3 @@
-from unittest import expectedFailure
-
 import model
 
 
