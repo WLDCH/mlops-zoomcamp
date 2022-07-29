@@ -1,0 +1,1 @@
+{"buildTargets":["build","integration_test","publish","quality_checks","setup","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

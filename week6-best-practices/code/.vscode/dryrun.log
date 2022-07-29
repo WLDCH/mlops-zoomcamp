@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/wld/notebooks/mlops-zoomcamp/week6-best-practices/code'
+pytest tests/
+make: Leaving directory '/home/wld/notebooks/mlops-zoomcamp/week6-best-practices/code'
+ 
