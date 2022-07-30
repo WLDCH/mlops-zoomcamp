@@ -15,7 +15,7 @@ Original DataTalksClub github repo : https://github.com/DataTalksClub/mlops-zoom
 * Why do we need MLOps
 * Setting up environment
 
-## Module 2 : [Experiment tracking & Model Management](https://github.com/WLDCH/mlops-zoomcamp/tree/master/02-experiment-tracking)
+## [Module 2 : Experiment tracking & Model Management](https://github.com/WLDCH/mlops-zoomcamp/tree/master/02-experiment-tracking)
 * Experiment tracking intro
 * Getting started with MLflow
 * Experiment tracking with MLflow
@@ -23,24 +23,24 @@ Original DataTalksClub github repo : https://github.com/DataTalksClub/mlops-zoom
 * Model registry
 * MLflow in practice
 
-## Module 3 : [Orchestration and ML Pipeline](https://github.com/WLDCH/mlops-zoomcamp/tree/master/03-orchestration)
+## [Module 3 : Orchestration and ML Pipeline](https://github.com/WLDCH/mlops-zoomcamp/tree/master/03-orchestration)
 * Workflow orchestration
 * Prefect 2.0
 * Turning a notebook into a pipeline
 * Deployment of Prefect flow
 
-## Module 4 : [Model Deployment](https://github.com/WLDCH/mlops-zoomcamp/tree/master/04-deployment)
+## [Module 4 : Model Deployment](https://github.com/WLDCH/mlops-zoomcamp/tree/master/04-deployment)
 * Three ways of model deployment: Online (web and streaming) and offline (batch)
 * Web service: model deployment with Flask
 * Streaming: consuming events with AWS Kinesis and Lambda
 * Batch: scoring data offline
 
-## Module 5 : [Model Monitoring](https://github.com/WLDCH/mlops-zoomcamp/tree/master/05-monitoring)
+## [Module 5 : Model Monitoring](https://github.com/WLDCH/mlops-zoomcamp/tree/master/05-monitoring)
 * Monitoring ML-based services
 * Monitoring web services with Prometheus, Evidently, and Grafana
 * Monitoring batch jobs with Prefect, MongoDB, and Evidently
 
-## Module 6 : [Bests Practices](https://github.com/WLDCH/mlops-zoomcamp/tree/master/06-best-practices)
+## [Module 6 : Bests Practices](https://github.com/WLDCH/mlops-zoomcamp/tree/master/06-best-practices)
 * Testing: unit, integration
 * Python: linting and formatting
 * Pre-commit hooks and makefiles
