@@ -2,7 +2,7 @@
 
 My final project is available in [this other repo](https://github.com/WLDCH/covid19-deaths-prediction)
 
-![Dashboard image](./fig/dashboard_screenshot.png)
+![Dashboard image](dashboard_screenshot.png)
 
 # Project framing
 
