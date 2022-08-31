@@ -46,3 +46,7 @@ Original DataTalksClub github repo : https://github.com/DataTalksClub/mlops-zoom
 * Pre-commit hooks and makefiles
 * CI/CD (Github Actions)
 * Infrastructure as code (Terraform)
+
+## [Module 7 : Final project](https://github.com/WLDCH/covid19-deaths-prediction)
+* COVID19 deaths prediction
+* Applying everything I learn in MLOps zoomcamp
